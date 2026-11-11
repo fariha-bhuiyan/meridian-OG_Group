@@ -1,3 +1,9 @@
+
+
+## Team
+
+- Fariha
+
 # Meridian Books
 
 The online shop for Meridian Books, an independent bookseller. This is the starter application for **LD6049 DevOps Principles**.
@@ -64,3 +70,5 @@ MIT
 
 ## Team
 - Ding (QimiaoDing)
+- Alex (Alex200461)
+- fariha (fariha-bhuiyan)
