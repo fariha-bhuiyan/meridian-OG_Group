@@ -61,3 +61,6 @@ test/               Jest tests
 ## Licence
 
 MIT
+
+Team
+Alex200461
