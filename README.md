@@ -68,5 +68,7 @@ test/               Jest tests
 
 MIT
 
-Team
-Alex200461
+## Team
+- Ding (QimiaoDing)
+- Alex (Alex200461)
+- fariha (fariha-bhuiyan)
