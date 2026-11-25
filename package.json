@@ -1,6 +1,6 @@
 {
   "name": "meridian-books",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Meridian Books online shop. Starter application for LD6049 DevOps Principles.",
   "main": "src/server.js",
   "scripts": {
